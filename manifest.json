@@ -1,0 +1,15 @@
+{
+    "name": "Yashodhan Developer Portfolio",
+    "short_name": "Yashodhan",
+    "start_url": "https://yashodhan.co",
+    "display": "standalone",
+    "background_color": "#F4D03F",
+    "theme_color": "#FF6B35",
+    "icons": [
+        {
+            "src": "/icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
