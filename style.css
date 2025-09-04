@@ -622,7 +622,7 @@ select.form-control {
   padding-right: var(--space-16);
   padding-left: var(--space-16);
 }
-/* 
+
 @media (min-width: 640px) {
   .container {
     max-width: var(--container-sm);
@@ -645,7 +645,7 @@ select.form-control {
   .container {
     max-width: var(--container-xl);
   }
-} */
+}
 
 /* Utility classes */
 .flex {
