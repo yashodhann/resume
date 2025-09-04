@@ -7,7 +7,7 @@
     "theme_color": "#FF6B35",
     "icons": [
         {
-            "src": "/icon.png",
+            "src": "/static/yashodhan_wordmark.png",
             "sizes": "192x192",
             "type": "image/png"
         }
