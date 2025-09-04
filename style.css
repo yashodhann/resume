@@ -3271,3 +3271,12 @@ textarea.form-control {
     background: var(--portfolio-accent);
   }
 }
+
+@media (max-width: 1020px) {
+  .hero__content {
+    margin: 0 auto;          /* center block */
+    text-align: center;      /* center text */
+    justify-content: center; /* if flex children */
+    align-items: center;     /* if flex children */
+  }
+}
